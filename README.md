@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Riya 👋
 
 <!--
 **riyagarwal/riyagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - 🤔 Looking for help with contributing to **open-source**
 - ⚡ **Social** and **environmental** matters intrigue me
 - 📫 Get in touch with me here: [Twitter](https://twitter.com/RiyaAgarwal445) [LinkedIn](https://www.linkedin.com/in/riya-agarwal2311/)
+
+#### Some of my nice little projects
+
 
 
