@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning DSA & Full Stack Development
+- 👯 I’m looking to collaborate on Development Projects
+- 🤔 I’m looking for help with contributing to open-source
+- 📫 How to reach me: https://twitter.com/RiyaAgarwal445
+- 😄 Pronouns: She/Her
+
