@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Development Projects
 - 🤔 Looking for help with contributing to open-source
 - 📫 Get in touch with me here: [Twitter](https://twitter.com/RiyaAgarwal445) [LinkedIn](https://www.linkedin.com/in/riya-agarwal2311/)
-- 
 
 
