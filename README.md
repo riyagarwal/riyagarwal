@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning DSA & Full Stack Development
 - 👯 I’m looking to collaborate on Development Projects
-- 🤔 I’m looking for help with contributing to open-source
-- 📫 How to reach me: https://twitter.com/RiyaAgarwal445
-- 😄 Pronouns: She/Her
+- 🤔 Looking for help with contributing to open-source
+- 📫 Get in touch with me here: [Twitter](https://twitter.com/RiyaAgarwal445) [LinkedIn](https://www.linkedin.com/in/riya-agarwal2311/)
+- 
+
 
