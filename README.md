@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 **JavaScript** & **React**
+- 🌱 **MERN Stack**
 - 👯 Looking to collaborate on **Development Projects**
 - 🤔 Looking for help with contributing to **open-source**
 - ⚡ **Social** and **environmental** matters intrigue me
