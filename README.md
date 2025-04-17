@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **Development Projects**
 - 🤔 Looking for help with contributing to **open-source**
 - ⚡ **Social** and **environmental** matters intrigue me
-- 📫 Get in touch with me here: [Twitter](https://twitter.com/RiyaAgarwal445) [LinkedIn](https://www.linkedin.com/in/riya-agarwal2311/)
+- 📫 Get in touch with me here: [LinkedIn](https://www.linkedin.com/in/riya-agarwal2311/)
 
 #### Some of my nice little projects
 
